@@ -42,6 +42,6 @@ dependencies {
     implementation 'com.squareup.retrofit2:adapter-rxjava2:2.4.0'
     implementation 'io.reactivex.rxjava2:rxjava:2.2.8'
 //    implementation files('libs/admob_transcode_lib-release.aar')
-    implementation 'com.admobile:xatscode-sdk:1.0.0-SNAPSHOT'
+    implementation 'com.admobile:xatscode-sdk:1.0.4-SNAPSHOT'
 
 }
